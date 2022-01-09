@@ -1,5 +1,5 @@
 # Map-Reduce-with-MPI-and-OpenMP
-A word count MapReduce implementation with MPI and OpenMP in C++
+Implementation of a parallel word count program with MapReduce pattern using MPI and OpenMP APIs in C++
 
 1. To compile, navigate to /src folder and run "make" command. Output program is main.exe.
 
